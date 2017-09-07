@@ -1,0 +1,38 @@
+# Configuration
+
+## Android SDK
+
+local.properties
+
+## Server
+
+/server.properties
+
+## Signing
+
+/signing.properties
+
+# IDE
+
+## Android Studio
+
+.idea/
+*.iml
+
+## Eclipse
+
+.project
+.classpath
+.settings
+
+# Build System
+
+## Gradle
+
+.gradle/
+build/
+
+## Maven
+
+target/
+
