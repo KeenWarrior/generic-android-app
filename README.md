@@ -1,1 +1,1 @@
-# leads-management-client-android
+# generic-android-app
